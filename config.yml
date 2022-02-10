@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: https://github.com/lvorcool/lvorcool.github.io.git
+  branch: master
